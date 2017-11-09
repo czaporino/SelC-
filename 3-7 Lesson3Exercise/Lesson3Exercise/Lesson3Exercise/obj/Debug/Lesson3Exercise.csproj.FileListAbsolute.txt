@@ -1,0 +1,6 @@
+c:\users\tiffany\documents\visual studio 2013\Projects\Lesson3Exercise\Lesson3Exercise\bin\Debug\Lesson3Exercise.exe.config
+c:\users\tiffany\documents\visual studio 2013\Projects\Lesson3Exercise\Lesson3Exercise\bin\Debug\Lesson3Exercise.exe
+c:\users\tiffany\documents\visual studio 2013\Projects\Lesson3Exercise\Lesson3Exercise\bin\Debug\Lesson3Exercise.pdb
+c:\users\tiffany\documents\visual studio 2013\Projects\Lesson3Exercise\Lesson3Exercise\obj\Debug\Lesson3Exercise.csprojResolveAssemblyReference.cache
+c:\users\tiffany\documents\visual studio 2013\Projects\Lesson3Exercise\Lesson3Exercise\obj\Debug\Lesson3Exercise.exe
+c:\users\tiffany\documents\visual studio 2013\Projects\Lesson3Exercise\Lesson3Exercise\obj\Debug\Lesson3Exercise.pdb
