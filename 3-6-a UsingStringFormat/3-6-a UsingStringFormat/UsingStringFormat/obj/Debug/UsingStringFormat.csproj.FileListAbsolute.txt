@@ -1,0 +1,5 @@
+c:\users\tiffany\documents\visual studio 2013\Projects\UsingStringFormat\UsingStringFormat\bin\Debug\UsingStringFormat.exe.config
+c:\users\tiffany\documents\visual studio 2013\Projects\UsingStringFormat\UsingStringFormat\bin\Debug\UsingStringFormat.exe
+c:\users\tiffany\documents\visual studio 2013\Projects\UsingStringFormat\UsingStringFormat\bin\Debug\UsingStringFormat.pdb
+c:\users\tiffany\documents\visual studio 2013\Projects\UsingStringFormat\UsingStringFormat\obj\Debug\UsingStringFormat.exe
+c:\users\tiffany\documents\visual studio 2013\Projects\UsingStringFormat\UsingStringFormat\obj\Debug\UsingStringFormat.pdb
