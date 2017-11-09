@@ -1,0 +1,5 @@
+c:\users\tiffany\documents\visual studio 2013\Projects\StringReplacement\StringReplacement\bin\Debug\StringReplacement.exe.config
+c:\users\tiffany\documents\visual studio 2013\Projects\StringReplacement\StringReplacement\bin\Debug\StringReplacement.exe
+c:\users\tiffany\documents\visual studio 2013\Projects\StringReplacement\StringReplacement\bin\Debug\StringReplacement.pdb
+c:\users\tiffany\documents\visual studio 2013\Projects\StringReplacement\StringReplacement\obj\Debug\StringReplacement.exe
+c:\users\tiffany\documents\visual studio 2013\Projects\StringReplacement\StringReplacement\obj\Debug\StringReplacement.pdb
