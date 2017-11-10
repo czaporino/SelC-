@@ -1,0 +1,7 @@
+c:\Users\Tiffany\documents\visual studio 2013\Projects\TestApp\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+c:\Users\Tiffany\documents\visual studio 2013\Projects\TestApp\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+c:\Users\Tiffany\documents\visual studio 2013\Projects\TestApp\UnitTestProject1\bin\Debug\TestApp.exe
+c:\Users\Tiffany\documents\visual studio 2013\Projects\TestApp\UnitTestProject1\bin\Debug\TestApp.pdb
+c:\Users\Tiffany\documents\visual studio 2013\Projects\TestApp\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
+c:\Users\Tiffany\documents\visual studio 2013\Projects\TestApp\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+c:\Users\Tiffany\documents\visual studio 2013\Projects\TestApp\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
